@@ -1,8 +1,6 @@
 # 湖南师范大学计算机系课程攻略
 
 
-受[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT/tree/master?tab=readme-ov-file)启发，创立了本项目。
-
 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 download 即可。
 
 ## 前言
